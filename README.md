@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Saurabhsanjay](https://github.com/Saurabhsanjay)
 
-- 💬 Ask me about **React Js**
+- 💬 Ask me about **HTML , CSS, JS, ReactJS, NodeJS**
 
 - 📫 How to reach me **Saurabhubale371@gmail.com**
 
