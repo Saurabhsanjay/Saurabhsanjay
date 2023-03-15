@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **Saurabhubale371@gmail.com**
 
-- 📄 Know about my experiences [Click Here ](https://drive.google.com/file/d/15_tvDrowGcmd0g55dgMc4lXUlYFS5DZt/view?usp=sharing)
+- 📄 Know about my experiences [Click Here ]()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
