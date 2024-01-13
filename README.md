@@ -13,11 +13,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Saurabhsanjay](https://github.com/Saurabhsanjay)
 
-- 💬 Ask me about **HTML , CSS, JS, ReactJS, NodeJS**
+- 💬 Ask me about **HTML , CSS, JS, ReactJS, NodeJS, Typescript, NextJs**
 
 - 📫 How to reach me **Saurabhubale371@gmail.com**
-
-- 📄 Know about my experiences [Click Here ]()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
