@@ -18,7 +18,7 @@
 
 <h3 align="left">🌟 Featured Projects:</h3>
 
-- [MyGlamm E-commerce](https://github.com/Saurabhsanjay/MyglammClone)
+- Myglamm E-Commerce
 - AdTech Platform
 - Social Engagement Application
 - School Management System
