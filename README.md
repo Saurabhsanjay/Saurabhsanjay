@@ -5,12 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhsanjay&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhsanjay" /> </p>
 
-- 🚀 I'm currently working on **MERN stack projects**
+- 🚀 I'm currently working on **MERN stack**
 - 💻 Experienced in building:
   - AdTech platforms for targeted advertising
   - Social engagement applications
   - School management systems
 - 🛠️ Tech stack: **HTML, CSS, JavaScript, React.js, Node.js, Next.js, Nest.js, TypeScript, MySQL, MongoDB**
+- 🎨 UI Libraries: **Tailwind CSS, Chakra UI, Material UI**
 - 👨‍💻 All of my projects are available at [https://github.com/Saurabhsanjay](https://github.com/Saurabhsanjay)
 - 💬 Ask me about **Full Stack Development, MERN Stack, and Web Technologies**
 - 📫 How to reach me: **Saurabhubale371@gmail.com**
@@ -40,6 +41,9 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+  <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/media/logo-colored@2x.png?raw=true" alt="chakra-ui" width="40" height="40"/> </a>
+  <a href="https://material-ui.com/" target="_blank" rel="noreferrer"> <img src="https://material-ui.com/static/logo.png" alt="material-ui" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
