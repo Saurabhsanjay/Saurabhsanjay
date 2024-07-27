@@ -18,7 +18,7 @@
 
 <h3 align="left">🌟 Featured Projects:</h3>
 
-- [Boat Clone](https://github.com/Saurabhsanjay/BoAt-Clone)
+- [MyGlamm E-commerce](https://github.com/Saurabhsanjay/MyglammClone)
 - AdTech Platform
 - Social Engagement Application
 - School Management System
