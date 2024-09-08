@@ -14,7 +14,7 @@
 - 🎨 UI Libraries: **Tailwind CSS, Chakra UI, Material UI**
 - 👨‍💻 All of my projects are available at [https://github.com/Saurabhsanjay](https://github.com/Saurabhsanjay)
 - 💬 Ask me about **Full Stack Development, MERN Stack, and Web Technologies**
-- 📫 How to reach me: **Saurabhubale371@gmail.com**
+
 
 <h3 align="left">🌟 Featured Projects:</h3>
 
